@@ -1,2 +1,1 @@
-# OPENAIGC
-Generating Image Captions based on PaliGemma Model
+Please use Kaggle notebook, GPU(P100)\nhttps://www.kaggle.com/
